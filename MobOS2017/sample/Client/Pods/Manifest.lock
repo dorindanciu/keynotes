@@ -1,0 +1,22 @@
+PODS:
+  - SwiftProtobuf (0.9.24)
+
+DEPENDENCIES:
+  - SwiftProtobuf (from `https://github.com/apple/swift-protobuf.git`, tag `0.9.26`)
+
+EXTERNAL SOURCES:
+  SwiftProtobuf:
+    :git: https://github.com/apple/swift-protobuf.git
+    :tag: 0.9.26
+
+CHECKOUT OPTIONS:
+  SwiftProtobuf:
+    :git: https://github.com/apple/swift-protobuf.git
+    :tag: 0.9.26
+
+SPEC CHECKSUMS:
+  SwiftProtobuf: b91200b46c270f0fdc4e5b2662ae795c177d6209
+
+PODFILE CHECKSUM: c34a1e707b060960241444f77b3152c0904ae583
+
+COCOAPODS: 1.2.0

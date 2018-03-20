@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message Beer {
+    double alcohol = 1;
+    string name = 2;
+    string brewedBy = 3;
+    string style = 4;
+    string availability = 5;
+    string serving = 6;
+    string details = 7;
+}
+
+message BeerList {
+    repeated Beer beers = 1;
+}

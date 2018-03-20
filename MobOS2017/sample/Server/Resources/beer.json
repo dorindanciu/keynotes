@@ -1,0 +1,177 @@
+ [{
+  "name": "Stiegl Goldbräu",
+  "brewedBy": "Stiegl Brauerei zu Salzburg",
+  "style": "German-Style Märzen",
+  "availability": "Seasonal",
+  "serving": "Serve in a Mug",
+  "alcohol": 4.9,
+  "details": "This wonderfully refreshing beer specialty from Stiegl, Austria's largest privately owned brewery is brewed in strict adherence with the 1516 purity law of only using water, malt and hops. Stiegl-Goldbräu is an Austrian styled beer with its own distinctive Salzburg lager flavor. The 12o original gravity is unparalleled in its even taste and ability to refresh. It is mildly hopped is golden in color has a great head with a superb finish. Stiegl-Goldbräu is considered by many connoisseurs to be the world's finest beer."
+  }, {
+  "name": "Stiegl Weisse",
+  "brewedBy": "Stiegl Brauerei zu Salzburg",
+  "style": "South German-Style Bernsteinfarbenes Weizen / Weissbier",
+  "availability": "Year Round",
+  "serving": "Serve in a Weizen",
+  "alcohol": 5,
+  "details": "With the typical, slightly aromatic fruit wheat beer flavor, mild character and light effervescence the Stiegl Weisse immediately loved it. The carefully selected, only Austrian raw materials and a careful maturation make this white beer a unique pleasure.\nAll the above mentioned beers and brewing sodas contain gluten containing grains and cereals containing gluten products.\nIf you have any questions regarding allergenic substances, You can call our trained staff at your disposal."
+  }, {
+  "name": "Paulaner 1634 Urtyp Hell",
+  "brewedBy": "Paulaner",
+  "style": "German-Style Märzen",
+  "availability": "Year Round",
+  "serving": "Serve in a Mug at Cold - (4-7C/39-45F)",
+  "alcohol": 5.5,
+  "details": "No description available"
+  }, {
+  "name": "Paulaner Hefeweizen (Natural Wheat)",
+  "brewedBy": "Paulaner",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "availability": "Year Round",
+  "serving": "Serve in a Weizen at Cool - (8-12C/45-54F)",
+  "alcohol": 5.5,
+  "details": "Paulaner Hefe-Weissbier is the best-selling beer by the Paulaner Brewery. Specially produced top-fermented yeast is what gives it its unmistakeable character: sparkling light, fruity, and just a tiny bit bitter. Because it is not filtered during the brewing process, it retains its originality and the many vitamins, minerals and trace elements."
+  }, {
+  "name": "Paulaner Hefeweizen Dunkel",
+  "brewedBy": "Paulaner",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "availability": "Year Round",
+  "serving": "Serve in a Weizen at Cool - (8-12C/45-54F)",
+  "alcohol": 5.3,
+  "details": "Compared to pale wheat beer, dark wheat beer has a greater dark malted wheat content, hence its enticing chestnut brown colour. The substantial 12.4% original gravity gives it its irresistibly pleasant taste, while its fresh, strong aroma reveals a hint of roasted malt."
+  }, {
+  "name": "Paulaner Original Munich Premium Lager",
+  "brewedBy": "Paulaner",
+  "style": "German-Style Märzen",
+  "availability": "Year Round",
+  "serving": "Serve in a Mug at Very Cold - (0-4C/32-39F)",
+  "alcohol": 4.9,
+  "details": "The classic Munich Biergarten beer loves being poured into a beer mug. The characteristic lager beer is the most consumed beer in Bavaria and is as much a part of Bavaria as the Brezn and the white clouds in the blue sky."
+  }, {
+  "name": "Paulaner Oktoberfest Weisn",
+  "brewedBy": "Paulaner",
+  "style": "German-Style Märzen",
+  "availability": "Seasonal",
+  "serving": "Serve in a Mug at Very Cold - (0-4C/32-39F)",
+  "alcohol": 6,
+  "details": "Brewed once a year, and only available while supplies last, Oktoberfest Wiesn is the pinnacle of German brewing: deep golden color, full-bodied and wonderfully mellow, with a balanced harmonious taste and the pleasant fragrance of hops. At 6% ABV, it is stronger and bolder that the usual lager."
+  }, {
+  "name": "Franziskaner Hefe-Weissbier",
+  "brewedBy": "Spaten-Franziskaner-Bräu",
+  "style": "South German-Style Hefeweizen / Hefeweissbier",
+  "availability": "Year Round",
+  "serving": "Serve in a Weizen at Cool - (8-12C/45-54F)",
+  "alcohol": 5,
+  "details": "No description available"
+  }, {
+  "name": "Franziskaner Weissbier Kristallklar",
+  "brewedBy": "Spaten-Franziskaner-Bräu",
+  "style": "South German-Style Kristall Weizen / Kristall Weissbier",
+  "availability": "Year Round",
+  "serving": "Serve in a Weizen at Cool - (8-12C/45-54F)",
+  "alcohol": 5,
+  "details": "Hops from Munich; Franziskaner top fermenting yeast strain; Water from own wells 200m deep.\nCrystal clear, clean in taste and color. For those who desire a weissbier without yeast.\nAlso known as Club Weissbier and as Kristall Klar."
+  }, {
+  "name": "Stella Artois",
+  "brewedBy": "Brouwerij Artois",
+  "style": "International-Style Pilsener",
+  "availability": "Year Round",
+  "serving": "Serve in a Tulip at Cold - (4-7C/39-45F)",
+  "alcohol": 5.2,
+  "details": "Stella Artois was first brewed as a Christmas beer in leuven. It was named Stella from the star of Christmas, and Artois after Sebastian Artois, founder of the brewery. It's brewed to perfection using the original Stella Artois yeast and the celebrated Saaz hops. It's the optimum premium lager, with it's full flavour and clean crisp taste."
+  }, {
+  "name": "Heineken Lager",
+  "brewedBy": "Heineken",
+  "style": "American-Style Premium Lager",
+  "availability": "Year Round",
+  "serving": "Serve in a Pint at Cold - (4-7C/39-45F)",
+  "alcohol": 5,
+  "details": "Heineken is brewed using the same method developed in 1873 and takes the better part of a month to brew - around twice as long as regular beer. Theat extended lagering gives Heineken its distinctive flavor and clarity."
+  }, {
+  "name": "Leffe de Noël",
+  "brewedBy": "Abbaye de Leffe",
+  "style": "Belgian-Style Dark Strong Ale",
+  "availability": "Seasonal",
+  "serving": "Serve in a Tulip at Cool - (8-12C/45-54F)",
+  "alcohol": 6.6,
+  "details": "Leffe Christmas is a special beer to be savored each year at the holiday season. With its fruity and spicy bouquet, this is a beer full of character that warms the heart."
+  }, {
+  "name": "Leffe Blonde",
+  "brewedBy": "Abbaye de Leffe",
+  "style": "Belgian-Style Blonde Ale",
+  "availability": "Year Round",
+  "serving": "Serve in a Tulip at Cool - (8-12C/45-54F)",
+  "alcohol": 6.6,
+  "details": "Leffe Blond is an authentic blond abbey beer with a slight hint of bitterness to it."
+  }, {
+  "name": "Leffe Brune",
+  "brewedBy": "Abbaye de Leffe",
+  "style": "Belgian-Style Dark Strong Ale",
+  "availability": "Seasonal",
+  "serving": "Serve in a Pint",
+  "alcohol": 6.5,
+  "details": "No description available"
+  }, {
+  "name": "Leffe Radieuse",
+  "brewedBy": "Abbaye de Leffe",
+  "style": "Belgian-Style Dark Strong Ale",
+  "availability": "Year Round",
+  "serving": "Serve in a Tulip at Cool - (8-12C/45-54F)",
+  "alcohol": 8.5,
+  "details": "A gourmet beer such as Leffe Radieuse is the pride of every brewer. The hops have been selected with the greatest care, giving this beer its fine bitter hop taste that connoisseurs are so mad about. Fruity accents and earthy undertones provide a complete and rich taste balance. Leffe Radieuse contains 8.2% alcohol and it is served at 5* to 6*C. It has a unique golden-brown colour and plays a starring role at the best tables."
+  }, {
+  "name": "Peroni Nastro Azzurro",
+  "brewedBy": "Birra Peroni Industriale S.p.A.",
+  "style": "German-Style Leichtbier",
+  "availability": "Year Round",
+  "serving": "Serve in a Pint",
+  "alcohol": 5.1,
+  "details": "Peroni its unique taste which is refreshing and dry, with a clear-cut, clean character and clarity, achieved through the exclusive brewing process. This ensures that the beer has both a fresh and natural quality.\nPositioned as Italian style in a bottle, from presentation to pouring the brand, Peroni has struck a chord with modern urbanites looking for cosmopolitan class."
+  }, {
+  "name": "FrostNipper",
+  "brewedBy": "Aviator Brewing Company",
+  "style": "American-Style Brown Ale",
+  "availability": "Winter",
+  "serving": "Serve in a Pint",
+  "alcohol": 7.2,
+  "details": "Our interpretation of a fall seasonal beer. This beer will curl your toes and put goosebumps on your arms. A fine collection of traditional fall spices make this a great addition to the holiday season...it will make all humbugs cheery. The beer is dark in color...a bit darker than brown ale. There is a combination of Perle and Willamette hops to provide a contrasting intensity with the fall spices. The beer contains a generous amount of smoked malt."
+  }, {
+  "name": "Dunkel",
+  "brewedBy": "Augustiner-Bräu",
+  "style": "European-Style Dark / Münchner Dunkel",
+  "availability": "Year Round",
+  "serving": "Serve in a Mug",
+  "alcohol": 5.6,
+  "details": "Munich's ancient beer with the typical malty-aromatical, spicy taste. A real treat for lovers of dark beers."
+  }, {
+  "name": "Oktoberfestbier",
+  "brewedBy": "Augustiner-Bräu",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "availability": "Seasonal",
+  "serving": "Serve in a Mug at Cool - (8-12C/45-54F)",
+  "alcohol": 6,
+  "details": "This singular speciality of the Augustiner brewery is dispensed exclusively at Munich's Oktoberfest."
+  }, {
+  "name": "Weißbier",
+  "brewedBy": "South German-Style Bernsteinfarbenes Weizen / Weissbier",
+  "style": "German-Style Oktoberfest / Wiesen (Meadow)",
+  "availability": "Year Round",
+  "serving": "Serve in a Pint",
+  "alcohol": 5.4,
+  "details": "An amber coloured wheat beer, brewed according to traditional and well-tried procedures as well as with thorough selected raw materials. This beer receives its easy digestibleness and its delicate spicy taste from its fermentation, up to full maturity, in bottles and its careful storage within Augustiner's own ripening vaults."
+  }, {
+  "name": "Tuborg Classic",
+  "brewedBy": "Tuborgs Bryggerier A/S",
+  "style": "Vienna-Style Lager",
+  "availability": "Serve in a Flute at Cold - (4-7C/39-45F)",
+  "serving": "Serve in a Pint",
+  "alcohol": 4.6,
+  "details": "Tuborg Classic is a bottom-fermented Vienna beer, which was introduced in celebration of Tuborg's 120th birthday in 1993. It was the first beer in Denmark to bear the name ‘classic’, and it’s been a true classic ever since, becoming the third best selling brand on the Danish market.\nIt is brewed on lager, münchener, caramel and colour malt, which give it a slightly grainy, caramel-like aroma with underlying notes of blackcurrant. It goes well with veal, pork, chicken, grilled fish and classic dinner recipes with beef. You'll also enjoy it with pasta dishes with tomatoes, root vegetables and mashed potatoes. Danish and white cheeses, fried herring and smoked mackerel."
+  }, {
+  "name": "Birra Moretti",
+  "brewedBy": "Birra Moretti",
+  "style": "Vienna-Style Lager",
+  "availability": "Year Round",
+  "serving": "Serve in a Pint",
+  "alcohol": 4.6,
+  "details": "Birra Moretti is a quality beer made in the traditional way. It is the result of a production process that has remained almost unchanged since 1859.\nThe best raw materials are used to make Birra Moretti, as well as a special blend of high quality hops that gives it a unique taste and fragrance, enhancing its perfectly balanced bitter taste.\nIt is a bottom fermented beer with a golden colour. This colouring is a result of the type of malt used in brewing. Its alcohol content is 4.6% alcohol by volume, a percentage that makes it ideal for any time of day. In fact, it is not a strong beer and is therefore perfect for drinking at lunch, at dinner or for evenings out with friends."
+  }]
