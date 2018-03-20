@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "PickAWinner",
+      "slots": [
+        {
+          "name": "Column",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Row",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}
